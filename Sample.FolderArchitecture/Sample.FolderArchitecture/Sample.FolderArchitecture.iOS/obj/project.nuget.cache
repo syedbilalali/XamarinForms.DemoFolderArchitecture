@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mclsg2z2evW6xGAS/T1LWzr3HoDYf7EgHk6u3V9Hf9kUloXyzTKRNII4b6wDSR4GkQpd9TM35EyUjpp/geVtJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syedb\\source\\repos\\XamrineForms.DemoFolderArchitecture\\Sample.FolderArchitecture\\Sample.FolderArchitecture\\Sample.FolderArchitecture.iOS\\Sample.FolderArchitecture.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syedb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

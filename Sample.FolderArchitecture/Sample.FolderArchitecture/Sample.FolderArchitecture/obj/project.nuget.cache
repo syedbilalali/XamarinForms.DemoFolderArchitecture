@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ic6NGy/v5rW+kP8boaYxp6YflKJN0RmJtjx3ay5T6RVpPAiPAXdjOiDhtKVz79+quzgeVttygCDqYnpC6NOoSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syedb\\source\\repos\\XamrineForms.DemoFolderArchitecture\\Sample.FolderArchitecture\\Sample.FolderArchitecture\\Sample.FolderArchitecture\\Sample.FolderArchitecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syedb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
