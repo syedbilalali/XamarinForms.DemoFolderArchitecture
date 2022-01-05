@@ -1,2 +1,3 @@
 # XamrineForms.DemoFolderArchitecture
-Sample Xamrine forms Project Architecture
+
+We are going to describe folder architecture that is mandatory inital level to setup folders and common setting files for project. 
