@@ -59,5 +59,41 @@ namespace Sample.FolderArchitecture {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ErrorLocation.
+        /// </summary>
+        internal static string ErrorLocation {
+            get {
+                return ResourceManager.GetString("ErrorLocation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ErrorMessage.
+        /// </summary>
+        internal static string ErrorMessage {
+            get {
+                return ResourceManager.GetString("ErrorMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Alert.
+        /// </summary>
+        internal static string TextAlert {
+            get {
+                return ResourceManager.GetString("TextAlert", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to OK.
+        /// </summary>
+        internal static string TextOK {
+            get {
+                return ResourceManager.GetString("TextOK", resourceCulture);
+            }
+        }
     }
 }

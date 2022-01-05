@@ -38,6 +38,10 @@
       "frameworks": {
         "monoandroid12.0": {
           "dependencies": {
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
@@ -86,6 +90,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

@@ -2,5 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>pixel_3_-_api_29</SelectedDevice>
+    <ActiveDebugProfile>pixel_3_-_api_29</ActiveDebugProfile>
+    <DefaultDevice>pixel_3_-_api_29</DefaultDevice>
   </PropertyGroup>
 </Project>
