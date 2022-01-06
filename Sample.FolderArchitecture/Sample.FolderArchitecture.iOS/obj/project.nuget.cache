@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qqucf0+XkrYsEnKoHO1a+lI0KivWY6QhLRLMTzowmH28SC/TKOiyjY3jCUWWOyDzbpelejv/8uE7jfqBKETxiA==",
+  "success": true,
+  "projectFilePath": "D:\\Practice Xamrine Apps\\DemoFolderArchitecture\\Sample.FolderArchitecture\\Sample.FolderArchitecture.iOS\\Sample.FolderArchitecture.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syedb\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\microsoft.appcenter.crashes\\4.4.0\\microsoft.appcenter.crashes.4.4.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\syedb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
