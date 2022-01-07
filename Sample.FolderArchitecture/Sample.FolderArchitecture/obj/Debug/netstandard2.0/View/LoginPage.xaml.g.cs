@@ -17,8 +17,12 @@ namespace Sample.FolderArchitecture.View {
     public partial class LoginPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Sample.FolderArchitecture.View.LoginPage vm;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(LoginPage));
+            vm = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Sample.FolderArchitecture.View.LoginPage>(this, "vm");
         }
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e820154-f2f7-4618-93b1-28acb076aa17": {
+      "ProjectGuid": "2e820154-f2f7-4618-93b1-28acb076aa17",
+      "DisplayName": "Sample.FolderArchitecture",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
